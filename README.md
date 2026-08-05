@@ -134,13 +134,10 @@ I also maintain repositories where I practice and document concepts related to:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JASH2026AD&show_icons=true&theme=tokyonight" />
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JASH2026AD&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JASH2026AD&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -209,7 +206,35 @@ Building Intelligent Applications 🚀
 </p>
 
 ---
+# 🏆 Competitive Programming
 
+<p align="center">
+
+<a href="https://leetcode.com/u/SV4idOgVym/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/jashu_2026_ad">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/chennujaswanth7">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+### 📈 LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/SV4idOgVym?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+### 🔗 Coding Profiles
+
+- 🟡 **LeetCode:** https://leetcode.com/u/SV4idOgVym/
+- 🟤 **CodeChef:** https://www.codechef.com/users/jashu_2026_ad
+- 🟢 **HackerRank:** https://www.hackerrank.com/profile/chennujaswanth7
 <div align="center">
 
 ## 💡 Build. Learn. Improve. Repeat.

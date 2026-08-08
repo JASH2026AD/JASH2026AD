@@ -227,7 +227,7 @@ Building Intelligent Applications 🚀
 ### 📈 LeetCode Statistics
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/SV4idOgVym?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Jashu_2026_ad?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ### 🔗 Coding Profiles

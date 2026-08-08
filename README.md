@@ -135,7 +135,7 @@ I also maintain repositories where I practice and document concepts related to:
 
 <p align="center">
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JASH2026DD&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JASH2026MD&theme=tokyonight" />
 </p>
 
 

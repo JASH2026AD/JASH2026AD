@@ -232,7 +232,7 @@ Building Intelligent Applications 🚀
 
 ### 🔗 Coding Profiles
 
-- 🟡 **LeetCode:** https://leetcode.com/u/SV4idOgVym/
+- 🟡 **LeetCode:** https://leetcode.com/u/Jashu_2026_ad
 - 🟤 **CodeChef:** https://www.codechef.com/users/jashu_2026_ad
 - 🟢 **HackerRank:** https://www.hackerrank.com/profile/chennujaswanth7
 <div align="center">

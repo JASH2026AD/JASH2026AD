@@ -18,7 +18,7 @@
 * ⚛️ Building modern web applications using **React.js**
 * 🟢 Working with **Node.js & Express.js** for backend development
 * 🐍 Using **Python** for Machine Learning and Data Science
-* 🗄️ Experience with **MySQL & MongokB**
+* 🗄️ Experience with **MySQL & MongoAB**
 * 📚 Continuously improving my **Data Structures & Algorithms** skills
 * 🎥 Passionate about **Video Editing & Visual Storytelling**
 * 🚀 I enjoy transforming ideas into real-world projects

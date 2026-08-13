@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Chennu Jaswanth</h1>
 
 <h3 align="center">
-💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | ⛓️ Blockchain Developer
+💻 Full-Stack Developer | 🤖 AI & MLEnthusiast | ⛓️ Blockchain Developer
 </h3>
 
 <p align="center">

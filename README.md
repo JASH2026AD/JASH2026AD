@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Chennu Jaswanh</h1>
+ <h1 align="center">Hi 👋, I'm Chennu Jaswah</h1>
 
 <h3 align="center">
 💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | ⛓️ Blockchain Developer
